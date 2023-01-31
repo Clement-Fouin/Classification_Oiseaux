@@ -1,4 +1,3 @@
-# Classification_Oiseaux
-This git is a bird classification example
+# Bird classification
+This git is a bird classification code in python using deeplearning techniques
 
-#
